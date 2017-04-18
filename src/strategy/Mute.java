@@ -13,7 +13,7 @@ class Mute implements Quackbehavior {
 
     @Override
     public void quack() {
-        System.out.println("<<<Silence>>>");
+        System.out.println("<<<Silence>>>>>>>");
     }
     
 }
